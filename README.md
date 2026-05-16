@@ -49,7 +49,7 @@ Instale as dependências:
  - Todas as dependências estarão nos arquivos jupyter.
 
 
-Execute o Jupyter Notebook:
+Execute o Jupyter Notebook(usar VSCode:
 
 ```bash
 jupyter notebook
